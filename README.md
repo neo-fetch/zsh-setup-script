@@ -1,7 +1,7 @@
 # zsh-setup-script
 This is a script I use to initialize my personalized zsh setup on debian (you can always edit the file to change it to your preferred package manager but mine for now uses `apt` by default.).
 
-## Installation
+## Installation:<br>
 Just download the repo. You can use git clone or the github interface, doesnt matter since all we need are the shell files
 
 `git clone https://github.com/mayank-pq2q4/zsh-setup-script.git <~/your-preferred-directory>`
