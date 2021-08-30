@@ -4,7 +4,7 @@ This is a script I use to initialize my personalized zsh setup on debian (you ca
 ## Installation
 Just download the repo. You can use git clone or the github interface, doesnt matter since all we need are the shell files
 
-`git clone https://github.com/mayank-pq2q4/zsh-setup-script.git`
+`git clone https://github.com/mayank-pq2q4/zsh-setup-script.git <~/your-preferred-directory>`
 
 ## Usage:<br>
 Log onto the user where you want the zsh to be initialized
