@@ -25,7 +25,7 @@ Just open the ~/.zshrc in your desired text editor
 
 > no i dont have a editor other than vi
 
-Try `nano` it most of the times is present on many distros or do the below:
+Try `nano` its present on many distros or do the below:
 
 if you dont know how to navigate a vi editor, simply press `esc` to return it to `NORMAL` mode just in case, then `i` to take it to the editable mode `INSERT` then use arrow keys to go to the desired place then edit them. If you think you made a mistake simply press `esc` then `u` to undo changes. then `i` to edit again. Once you're done just press `esc` and then `shift + z + z` aka `ZZ`. This will save your file. 
 )  
