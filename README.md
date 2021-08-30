@@ -27,7 +27,9 @@ Just open the ~/.zshrc in your desired text editor
 
 Try `nano` its present on many distros or do the below:
 
-if you dont know how to navigate a vi editor, simply press `esc` to return it to `NORMAL` mode (just in case you went into another mode by accident), then `i` to take it to the editable mode `INSERT` then use arrow keys to go to the desired place then edit them. If you think you made a mistake simply press `esc` then `u` to undo changes. then `i` to edit again. Once you're done just press `esc` and then `shift + z + z` aka `ZZ`. This will save your file. 
+if you dont know how to navigate a vi editor, simply press `esc` to return it to `NORMAL` mode (just in case you went into another mode by accident), then `i` to take it to the editable mode `INSERT` then use arrow keys to go to the desired place then edit them. If you think you made a mistake simply press `esc` then `u` to undo changes. then `i` to edit again. Once you're done just press `esc` and then `shift + z + z` aka `ZZ`. This will save your file.
+
+To know more about Vi just run `man vi` or search online, though I dont recommend this editor for complicated tasks. Try vim/ nvim or emacs for that
 )  
 
 log out of the system (in a wsl instance, simply close the session and relaunch it) then log in and start a terminal. By default I wanted powerlevel10k as my zsh theme and if you didnt edit that section, you mostly will be greeted by a configuration wizard. Select your best look and thats it!
