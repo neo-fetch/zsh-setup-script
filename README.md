@@ -1,7 +1,7 @@
 # zsh-setup-script
 This is a script I use to initialize my personalized zsh setup on debian (you can always edit the file to change it to your preferred package manager but mine for now uses `apt` by default.).
 
-Usage:<br>
+## Usage:<br>
 Log onto the user where you want the zsh to be initialized
 
 type (replace default shell with the current shell, usually `bash` but run `ps -p $$` just to be sure)
